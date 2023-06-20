@@ -33,4 +33,4 @@ const tabuada = function (multiplicando: number, maxMultiplicador: number) {
   return status
 }
 
-tabuada(10, 100)
+tabuada(1, 10)
